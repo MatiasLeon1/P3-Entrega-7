@@ -19,6 +19,7 @@
 #### * Sensor 13
 #### * Sensor 14
 #### * Sensor 15
+***
 
 ### GIF Desarrollo de Temperatura al centro del modelo
 
