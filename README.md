@@ -75,3 +75,7 @@ Las carpetas restantes llamadas `Caso_XY` `Caso_XZ` `Caso_YZ` poseen los frames 
 * **Plano YZ**
 
 ![GIF_caso_YZ](https://user-images.githubusercontent.com/43649125/98754794-29565880-23a6-11eb-961c-89e31cf85608.gif)
+
+* **Gráfico Sensores Totales**
+
+![image](https://user-images.githubusercontent.com/69159364/98755684-d4b3dd00-23a7-11eb-9e90-7f9688b28d06.png)
