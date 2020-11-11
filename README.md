@@ -10,60 +10,68 @@ Las carpetas restantes llamadas `Caso_XY` `Caso_XZ` `Caso_YZ` poseen los frames 
 
 * **Sensor 1**
 
-![Grafico_Sensor1](https://user-images.githubusercontent.com/43649125/98749679-eba00280-239a-11eb-8a00-c2c4260c877d.png)
+![Grafico_Sensor1](https://user-images.githubusercontent.com/43649125/98754971-74706b80-23a6-11eb-9632-ccdb48560c8f.png)
 
 * **Sensor 2**
 
-![Grafico_Sensor2](https://user-images.githubusercontent.com/43649125/98749678-eb076c00-239a-11eb-899c-fff67f75d2c4.png)
+![Grafico_Sensor2](https://user-images.githubusercontent.com/43649125/98754975-75a19880-23a6-11eb-8757-b52250a4e43e.png)
 
 * **Sensor 3**
 
-![Grafico_Sensor3](https://user-images.githubusercontent.com/43649125/98749676-eb076c00-239a-11eb-8e72-9cd89e1dd2bb.png)
+![Grafico_Sensor3](https://user-images.githubusercontent.com/43649125/98754977-76d2c580-23a6-11eb-897a-3aee4d6399a5.png)
 
 * **Sensor 4**
 
-![Grafico_Sensor4](https://user-images.githubusercontent.com/43649125/98749675-ea6ed580-239a-11eb-8474-b4dced644833.png)
+![Grafico_Sensor4](https://user-images.githubusercontent.com/43649125/98754979-7803f280-23a6-11eb-9e7a-830127333095.png)
 
 * **Sensor 5**
 
-![Grafico_Sensor5](https://user-images.githubusercontent.com/43649125/98749674-ea6ed580-239a-11eb-8eff-1de006de5872.png)
+![Grafico_Sensor5](https://user-images.githubusercontent.com/43649125/98754987-79cdb600-23a6-11eb-842e-cb3db09f8e8f.png)
 
 * **Sensor 6**
 
-![Grafico_Sensor6](https://user-images.githubusercontent.com/43649125/98749673-e9d63f00-239a-11eb-8666-5eb57cdfed10.png)
+![Grafico_Sensor6](https://user-images.githubusercontent.com/43649125/98755000-805c2d80-23a6-11eb-843d-9c2d2172054c.png)
 
 * **Sensor 7**
 
-![Grafico_Sensor7](https://user-images.githubusercontent.com/43649125/98749670-e93da880-239a-11eb-9637-197abd22c12f.png)
+![Grafico_Sensor7](https://user-images.githubusercontent.com/43649125/98755003-8225f100-23a6-11eb-8916-1409e311a3fa.png)
 
 * **Sensor 8**
 
-![Grafico_Sensor8](https://user-images.githubusercontent.com/43649125/98749666-e8a51200-239a-11eb-9342-04ab2ee11cf6.png)
+![Grafico_Sensor8](https://user-images.githubusercontent.com/43649125/98755049-9833b180-23a6-11eb-8590-2615c2b49e9a.png)
 
 * **Sensor 9**
 
-![Grafico_Sensor9](https://user-images.githubusercontent.com/43649125/98749688-ed69c600-239a-11eb-8d9f-34adae62be90.png)
+![Grafico_Sensor9](https://user-images.githubusercontent.com/43649125/98755058-9a960b80-23a6-11eb-8459-fbf008145b71.png)
 
 * **Sensor 10**
 
-![Grafico_Sensor10](https://user-images.githubusercontent.com/43649125/98749685-ecd12f80-239a-11eb-8afe-217743b39c13.png)
+![Grafico_Sensor10](https://user-images.githubusercontent.com/43649125/98755066-9bc73880-23a6-11eb-8b8d-6f3aa5542867.png)
 
 * **Sensor 11**
 
-![Grafico_Sensor11](https://user-images.githubusercontent.com/43649125/98749684-ecd12f80-239a-11eb-81e8-f00ec64db016.png)
+![Grafico_Sensor11](https://user-images.githubusercontent.com/43649125/98755070-9cf86580-23a6-11eb-9015-b36b7725b16e.png)
 
 * **Sensor 12**
 
-![Grafico_Sensor12](https://user-images.githubusercontent.com/43649125/98749683-ec389900-239a-11eb-8dd8-177cfc4108bd.png)
+![Grafico_Sensor12](https://user-images.githubusercontent.com/43649125/98755073-9e299280-23a6-11eb-8dca-7eae74ab5892.png)
 
 * **Sensor 13**
 
-![Grafico_Sensor13](https://user-images.githubusercontent.com/43649125/98749682-ec389900-239a-11eb-9b62-d1088a237291.png)
+![Grafico_Sensor12](https://user-images.githubusercontent.com/43649125/98755073-9e299280-23a6-11eb-8dca-7eae74ab5892.png)
 
 ***
 
 ### GIF Desarrollo de Temperatura al centro del modelo
 
 * **Plano XY**
+
+![GIF_caso_XY](https://user-images.githubusercontent.com/43649125/98754772-20658700-23a6-11eb-9b93-36198ba39667.gif)
+
 * **Plano XZ**
+
+![GIF_caso_XZ](https://user-images.githubusercontent.com/43649125/98754815-34a98400-23a6-11eb-9901-216b79a31975.gif)
+
 * **Plano YZ**
+
+![GIF_caso_YZ](https://user-images.githubusercontent.com/43649125/98754794-29565880-23a6-11eb-961c-89e31cf85608.gif)
