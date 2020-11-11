@@ -2,6 +2,10 @@
 
 ## Informe
 
+El código de esta entrega genera 4 carpetas. La primera llamada `Graficos_7` genera un gráfico de temperatura v/s tiempo de los valores medidos en cada sensor y de su predicción de temperatura calculada por el código. La carpeta posee un gráfico por cada sensor al interior del modelo.
+Las carpetas restantes llamadas `Caso_XY` `Caso_XZ` `Caso_YZ` poseen los frames de los planos existentes en el centro del modelo, los cuales se generan cada 30 minutos durante 2 días. Con los frames se genera un GIF _(ubicado en la carpeta)_ de la evolución de la temperatura en los planos al centro del modelo
+
+
 ### Graficos Temperatura v/s Tiempo
 
 * **Sensor 1**
